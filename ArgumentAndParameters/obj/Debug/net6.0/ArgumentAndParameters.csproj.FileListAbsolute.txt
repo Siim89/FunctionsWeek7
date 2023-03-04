@@ -1,0 +1,15 @@
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\bin\Debug\net6.0\ArgumentAndParameters.exe
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\bin\Debug\net6.0\ArgumentAndParameters.deps.json
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\bin\Debug\net6.0\ArgumentAndParameters.runtimeconfig.json
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\bin\Debug\net6.0\ArgumentAndParameters.dll
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\bin\Debug\net6.0\ArgumentAndParameters.pdb
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\ArgumentAndParameters.csproj.AssemblyReference.cache
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\ArgumentAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\ArgumentAndParameters.AssemblyInfoInputs.cache
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\ArgumentAndParameters.AssemblyInfo.cs
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\ArgumentAndParameters.csproj.CoreCompileInputs.cache
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\ArgumentAndParameters.dll
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\refint\ArgumentAndParameters.dll
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\ArgumentAndParameters.pdb
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\ArgumentAndParameters.genruntimeconfig.cache
+C:\Users\nelev\source\repos\Functions\ArgumentAndParameters\obj\Debug\net6.0\ref\ArgumentAndParameters.dll
